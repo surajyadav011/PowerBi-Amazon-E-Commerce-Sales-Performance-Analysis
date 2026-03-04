@@ -1,7 +1,5 @@
 # Amazon-E-Commerce-Sales-Performance-Analysis
 
-# 📊 Amazon Sales Analytics Dashboard (Power BI)
-
 ## 📌 Project Overview
 
 This project presents an **interactive Power BI dashboard** designed to analyze Amazon e-commerce sales performance.
