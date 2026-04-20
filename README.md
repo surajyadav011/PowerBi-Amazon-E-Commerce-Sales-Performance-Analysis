@@ -141,13 +141,11 @@ These filters enable users to **drill down into specific segments of the data**.
 
 Some important insights from the analysis include:
 
-Target Gap: Current month sales target se 21.43% peeche hain. Iske liye Regional Managers ke saath review meeting zaroori hai.
+Target Gap: Current month sales are 21.43% below target, indicating a need for a strategic performance review.
 
-High Value: Average Order Value ($458.61) kaafi strong hai, jo high-end product sales ko indicate karta hai.
+High Value Transactions: The Average Order Value ($458.61) is robust, suggesting strong sales in high-end product categories.
 
-Scaling: 2014-2017 ka trend positive hai, yani business consistently expand ho raha hai.**.
-
-These insights can help businesses optimize sales strategy and identify improvement opportunities.
+Consistent Growth: Trend analysis from 2014-2017 shows a positive growth trajectory, reflecting successful business scaling.
 
 
 ## 📁 Repository Structure
