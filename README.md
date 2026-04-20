@@ -160,8 +160,6 @@ PowerBi-Amazon-E-Commerce-Sales-Performance-Analysis/
 └── README.md                 # Project documentation
 ```
 
----
-
 ## 🎓 Skills Demonstrated
 
 This project demonstrates several important data analytics skills:
