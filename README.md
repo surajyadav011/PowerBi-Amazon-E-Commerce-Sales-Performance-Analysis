@@ -17,6 +17,8 @@ The objective of this project is to demonstrate practical **data analytics, data
 Example:
 
 ![Dashboard Preview](dashboard(1).png)
+
+
 ![Dashboard Preview](dashboard(2).png)
 ---
 
