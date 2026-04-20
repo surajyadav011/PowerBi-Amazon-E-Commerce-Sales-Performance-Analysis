@@ -8,7 +8,6 @@ The dashboard transforms raw transactional data into meaningful insights to help
 The objective of this project is to demonstrate practical **data analytics, data modeling, and business intelligence visualization skills** using Power BI.
 
 ---
----
 
 ## 🖥 Dashboard Preview
 
@@ -154,18 +153,13 @@ These insights can help businesses optimize sales strategy and identify improvem
 ## 📁 Repository Structure
 
 ```
-Amazon-Sales-Analytics
-│
-├── dataset
-│   └── amazon_sales_dataset.csv
-│
-├── dashboard
-│   └── amazon_sales_dashboard.pbix
-│
-├── images
-│   └── dashboard.png
-│
-└── README.md
+```text
+PowerBi-Amazon-E-Commerce-Sales-Performance-Analysis/
+├── amazon project.pbix       # Interactive Power BI Dashboard file
+├── amazon data.csv           # Raw E-commerce Sales Dataset
+├── dashboard(1).png          # Dashboard Screenshot (Overview)
+├── dashboard(2).png          # Dashboard Screenshot (Detail view)
+└── README.md                 # Project documentation
 ```
 
 ---
