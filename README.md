@@ -11,10 +11,10 @@ The objective of this project is to demonstrate practical **data analytics, data
 
 ## 🖥 Dashboard Preview
 
+![Dashboard Preview](dashboard(2).png)
+
 ![Dashboard Preview](dashboard(1).png)
 
-
-![Dashboard Preview](dashboard(2).png)
 ---
 
 ## 🎯 Business Problem
