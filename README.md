@@ -8,6 +8,17 @@ The dashboard transforms raw transactional data into meaningful insights to help
 The objective of this project is to demonstrate practical **data analytics, data modeling, and business intelligence visualization skills** using Power BI.
 
 ---
+---
+
+## 🖥 Dashboard Preview
+
+*(Add your dashboard screenshot here)*
+
+Example:
+
+![Dashboard Preview](dashboard(1).png)
+![Dashboard Preview](dashboard(2).png)
+---
 
 ## 🎯 Business Problem
 
@@ -141,17 +152,6 @@ Some important insights from the analysis include:
 
 These insights can help businesses optimize sales strategy and identify improvement opportunities.
 
----
-
-## 🖥 Dashboard Preview
-
-*(Add your dashboard screenshot here)*
-
-Example:
-
-![Dashboard Preview](dashboard(1).png)
-![Dashboard Preview](dashboard(2).png)
----
 
 ## 📁 Repository Structure
 
