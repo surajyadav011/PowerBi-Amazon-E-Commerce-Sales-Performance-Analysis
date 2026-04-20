@@ -142,11 +142,11 @@ These filters enable users to **drill down into specific segments of the data**.
 
 Some important insights from the analysis include:
 
-* Total sales reached **2.30M across 5,009 orders**.
-* The **average order value is 458.61**, indicating moderate purchase size.
-* Sales show **consistent growth over time** from 2014 to 2017.
-* Current month sales are **21% below the business target**.
-* Certain regions contribute a **significant share of total revenue**.
+Target Gap: Current month sales target se 21.43% peeche hain. Iske liye Regional Managers ke saath review meeting zaroori hai.
+
+High Value: Average Order Value ($458.61) kaafi strong hai, jo high-end product sales ko indicate karta hai.
+
+Scaling: 2014-2017 ka trend positive hai, yani business consistently expand ho raha hai.**.
 
 These insights can help businesses optimize sales strategy and identify improvement opportunities.
 
