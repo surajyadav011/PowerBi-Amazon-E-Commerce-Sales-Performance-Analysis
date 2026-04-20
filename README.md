@@ -12,10 +12,6 @@ The objective of this project is to demonstrate practical **data analytics, data
 
 ## 🖥 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
-
-Example:
-
 ![Dashboard Preview](dashboard(1).png)
 
 
